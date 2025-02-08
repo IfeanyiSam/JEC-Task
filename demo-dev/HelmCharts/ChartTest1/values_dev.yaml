@@ -1,0 +1,4 @@
+# values_dev.yaml
+replicaCount: 2
+image:
+  tag: stable

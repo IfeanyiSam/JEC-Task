@@ -1,0 +1,6 @@
+# Chart.yaml
+apiVersion: v2
+name: ChartTest1
+description: A dummy Helm chart for testing
+version: 0.1.0
+appVersion: "1.0"
